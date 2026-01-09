@@ -149,7 +149,7 @@ function Contact() {
           <X size={24} />
           <span className="sr-only">Twitter</span>
         </a>
-        <a href="#" className="text-[#a0a0a0] hover:text-white transition-colors">
+        <a href="mailto:dannydiaz04@gmail.com" className="text-[#a0a0a0] hover:text-white transition-colors">
           <Mail size={24} />
           <span className="sr-only">Email</span>
         </a>
